@@ -1,0 +1,21 @@
+a = int(input("1st number: "))
+b = int(input("2nd number: "))
+op = input("Operation (+, -, *, /): ")
+
+if op == '+':
+    add = a + b
+    print(add)
+elif op == '-':
+    sub = a - b
+    print(sub)
+elif op == '*':
+    multi = a * b
+    print(multi)
+elif op == '/':
+    if b != 0:
+        div = a / b
+        print(div)
+    else:
+        print("Error: Cannot divide by zero.")
+else:
+    print("Invalid input")
