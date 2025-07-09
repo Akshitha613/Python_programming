@@ -38,7 +38,7 @@ A simple To do list made to add and view tasks based on the requirements of the 
 
 
 
-Creating a Simple Calculator 
+###Creating a Simple Calculator 
 
 
 1)With input given from the user
