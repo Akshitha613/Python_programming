@@ -1,3 +1,43 @@
+CREATING A TO DO LIST
+
+A simple To do list made to add and view tasks based on the requirements of the user.
+
+##BASIC IDEA
++ INPUT A TASK
++ VIEW A TASK
++ REMOVE TASK BY OPTIONS SPECIFIED
++ DONE (when its over)
+
+##USES
++ Python lists and loops
++ without any libraries
++ with if-else ladder and while loops
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Creating a Simple Calculator 
 
 
