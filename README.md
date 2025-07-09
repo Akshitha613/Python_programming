@@ -53,3 +53,20 @@ op = input("Operation (+, -, *, /): ")
 
     print(add) #result is then displayed
 
+
+
+
+
+
+
+3) A SIMPLE PASSWORD GENERATOR
+    Creates a simple but a strong and efficient password with randomized characters.
+
+   ##USES
+   +Alphabets/letters
+   +Numbers
+   +Special characters
+
+   ##WORKING
+   +The user inputs the reqired length of the password.
+   +Then the code generates a special password of the desired length with the combination of letters, numbers and special characters for it to be unique.
