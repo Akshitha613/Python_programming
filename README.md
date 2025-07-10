@@ -60,6 +60,11 @@ op = input("Operation (+, -, *, /): ")
 
 
 
+![image](https://github.com/user-attachments/assets/d8d6518f-c7af-43ac-a8c2-6c6d0a8d3ba3)
+
+
+
+
 
 
 
