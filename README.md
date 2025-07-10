@@ -12,7 +12,8 @@ A simple To do list made to add and view tasks based on the requirements of the 
 + Python lists and loops
 + without any libraries
 + with if-else ladder and while loops
-  
+  ![image](https://github.com/user-attachments/assets/206ed0fc-3ef1-4f2c-9a28-49cb079f5d75)
+
 
 
 
