@@ -85,3 +85,8 @@ op = input("Operation (+, -, *, /): ")
    +The user inputs the reqired length of the password.
    
    +Then the code generates a special password of the desired length with the combination of letters, numbers and special characters for it to be unique.
+
+
+
+
+![image](https://github.com/user-attachments/assets/68942549-65fc-43ae-9b6e-0c886a5528d4)
